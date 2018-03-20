@@ -1,5 +1,0 @@
-# r
-
-example repo
-
-r
