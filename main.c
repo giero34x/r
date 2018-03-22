@@ -3,7 +3,7 @@
  - dokonczyc zmienne w main.c
  - zrobic mapowanie in/out do uC 
 		- zdecydowac czy bedzie robione to w board.h czy w main.c	
- - zalozyc normalnie projekt to keila, dodac software components do projektu
+ - zalozyc normalnie projekt do keila, dodac software components do projektu
  -
  -
  -
